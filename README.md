@@ -99,7 +99,7 @@ You can also modify the code, for your needs. Like changing the messages or more
 ![Servo Sweeping](media/title.png)
 
 ### Picture 1
-![Servo Sweeping](media/pic1.png)
+![Servo Sweeping](media/pic1.jpg)
 
 ---
 
